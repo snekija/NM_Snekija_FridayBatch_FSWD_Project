@@ -1,0 +1,1 @@
+# NM_Snekija_FridayBatch_FSWD_Project
