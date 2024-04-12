@@ -1,14 +1,14 @@
-# Car-Rentals-Application-using-Django-Framework-AKSHA-BERIN-M-4009-SMCE-
+NM_FRIDAYBATCH_FSWD_PROJECT
 Project implemented by:
 
-Name: AKSHA BERIN M
+Name: Snekija D
 
-ID: au963521104009
+ID: au963521104057
 
 College name: Stella Mary's College of Engineering
 
 Login credentials:
 
-username: akshaberin
+username: root
 
 Password: root
